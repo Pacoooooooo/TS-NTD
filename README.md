@@ -1,1 +1,2 @@
-# TemporalSimilarityBasedNonnegativeTensorDecomposition
+# TS-NTD
+TemporalSimilarityBasedNonnegativeTensorDecomposition
